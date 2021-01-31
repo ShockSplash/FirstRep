@@ -1,1 +1,5 @@
-let b=14.4;
+'use strict'
+let a=false;
+while (!a){
+    a=confirm("Are you gay?");
+}
